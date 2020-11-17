@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "5fa81a2ab0bbfe1128c3463a"
+  },
+  "name": "mongo",
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "5fa81e18eb231e20445af323"
+  },
+  "name": "orange",
+  "quantity": 2
+},{
+  "_id": {
+    "$oid": "5fa81e3deb231e20445af324"
+  },
+  "name": "orange",
+  "quantity": 5
+},{
+  "_id": {
+    "$oid": "5fa98613e5aee964c8f27740"
+  },
+  "name": "mongo",
+  "quantity": 2
+}]
