@@ -2,21 +2,25 @@
 This is node and mongodb with mongoose used, save detail of data and get data.
 here restful api made by node.
 Restful api's
+# installing
+npm install
+# Run
+node app.js
 
-// save details
+# save details
 
 Post : http://localhost:3030/save
 save details
 method: post,
 url: /save
 
-// get all list
+# get all list
 Get : http://localhost:3030/list
 get all details
 method: get,
 url: /list
 
-// get detail by id
+# get detail by id
 Get : http://localhost:3030/list/:id
 get details
 method: get,
